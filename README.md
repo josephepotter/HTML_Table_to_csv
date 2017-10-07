@@ -1,7 +1,7 @@
-# HTML Table to csv
+# JavaScript - HTML Table to csv
 #### **Author:** Joseph Potter
 #### **Date Last Edited:** 10/6/2017
-#### **Version:** 0.1
+#### **Version:** 1.0
 #### **Description:** This script will create a csv for any HTML table elements.
 #### **Usage:** Usage is pretty simple. Here is an example with everything you need to know:
 ```html

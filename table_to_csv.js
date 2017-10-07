@@ -2,7 +2,7 @@
 Title: HTML Table to csv
 Author: Joseph Potter
 Date Last Edited: 10/6/2017
-Version: 0.1
+Version: 1.0
 */
 function table_to_csv(selector, file_name){
   var table = $(selector);//Get the table(s)
